@@ -9,7 +9,7 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pumpsnacktv"/>
 <h3>What I like<h3>
 <ul>
-  <li>🎶Nanahira Songs<del>ㄴㄴㅋㅁ</del> </li>
+  <li>🎶Nanahira Songs! <del>ㄴㄴㅋㅁ</del> </li>
   <li>✏️Drawing</li>
   <li>🛏️Sleeping</li>
   <li>📺Watching anime</li>
