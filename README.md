@@ -1,2 +1,1 @@
 <img src="http://mazandi.herokuapp.com/api?handle=pumpsnacktv&theme=dark"/>
-<img src="https://camo.githubusercontent.com/5398a3ad48c2d52c271d6f4aecd02f17759db1c288d442df0d152bb1b956de84/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d4d616c6b6f72696e67" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pumpsnacktv" style="max-width: 100%;">
