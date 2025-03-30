@@ -18,3 +18,4 @@
 ```
 print("나나히라는 희망을 노래하지..")
 ```
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pumpsnacktv"/>
