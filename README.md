@@ -9,7 +9,7 @@
 
 ## What I like
 <ul>
-  <li>🎶Listening to music <del>ㄴㄴㅋㅁ</del> </li>
+  <li>🎶Listening to music </li>
   <li>✏️Drawing</li>
   <li>📺Watching anime</li>
 </ul>
