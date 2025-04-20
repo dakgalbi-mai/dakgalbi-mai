@@ -9,9 +9,8 @@
 
 ## What I like
 <ul>
-  <li>🎶Nanahira Songs! <del>ㄴㄴㅋㅁ</del> </li>
+  <li>🎶Listening to music <del>ㄴㄴㅋㅁ</del> </li>
   <li>✏️Drawing</li>
-  <li>🛏️Sleeping</li>
   <li>📺Watching anime</li>
 </ul>
 
