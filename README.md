@@ -1,20 +1,10 @@
 ## About Me
 <ul>
-  <li>📖Learning Python, Japanese, etc</li>
-  <li>‍🏫Student</li>
-  <li>🕹️I play SDVX, maimai, CHUNITHM, Polaris chord, pop'n, PIU</li>
-  <li>💻: https://www.acmicpc.net/user/pumpsnacktv</li>
+  <li>사볼 + 츄마이 + 펌프 하는 나나히라/코나타 오시</li>
+  <li>일본어와 그림(+파이썬)을 배우는 중</li>
 </ul>
 
-
-## What I like
-<ul>
-  <li>🎶Listening to music </li>
-  <li>✏️Drawing</li>
-  <li>📺Watching anime</li>
-</ul>
-
-```
-print("나나히라는 희망을 노래하지..")
-```
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pumpsnacktv"/>
+<img src="https://avatars.githubusercontent.com/u/156066211?v=4" width="50" height="50" />
+<img src="https://media1.tenor.com/m/y6V1TRkQHN4AAAAC/bocchi-the-rock-hitori-gotou.gif" width="50" height="50" />
+<img src="https://media.tenor.com/ROTT22u3Vr0AAAA1/konata-lucky-star.webp" width="50" height="50" />
