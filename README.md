@@ -1,7 +1,8 @@
 ## About Me
 <ul>
-  <li>사볼 + 츄마이 + 펌프 하는 나나히라/코나타 오시</li>
-  <li>일본어와 그림(+파이썬)을 배우는 중</li>
+  <li>Oshi : Nanahira, Konata, Sakurako</li>
+  <li>I play sdvx, chunithm, maimai, platina lab, etc</li>
+  <li>Learning drawing + Python + etc</li>
 </ul>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pumpsnacktv"/>
