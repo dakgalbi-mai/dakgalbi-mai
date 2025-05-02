@@ -11,3 +11,4 @@
 <img src="https://media1.tenor.com/m/R9x9j0ss4IIAAAAC/konakonagifs-lucky-star.gif" width="60" height="50" />
 <img src="https://media.tenor.com/c5ApMIY4d_MAAAAj/zundamon-spin.gif" width="50" height="70"/>
 <img src="https://media1.tenor.com/m/zBd0oB5fL_MAAAAd/bocchi-the-rock-ryo-yamada.gif`" width="50 height="60"/>
+<img src="https://github.com/user-attachments/assets/4d83e505-4b90-4074-8fb2-608ff5ce7e13" width="50" height="50"/>
